@@ -3,5 +3,7 @@
 aliases:
   azure-acr-credential-provider-reviewers:
   - AndreasBurger
+  - wpross
   azure-acr-credential-provider-approvers:
   - AndreasBurger
+  - wpross
