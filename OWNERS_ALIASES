@@ -1,0 +1,9 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+aliases:
+  azure-acr-credential-provider-reviewers:
+  - AndreasBurger
+  - wpross
+  azure-acr-credential-provider-approvers:
+  - AndreasBurger
+  - wpross

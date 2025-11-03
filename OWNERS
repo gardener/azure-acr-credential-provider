@@ -1,0 +1,6 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+reviewers:
+- azure-acr-credential-provider-reviewers
+approvers:
+- azure-acr-credential-provider-approvers
