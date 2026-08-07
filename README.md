@@ -1,6 +1,9 @@
-# <repo name>
+# azure-acr-credential-provider
 
 [![reuse compliant](https://reuse.software/badge/reuse-compliant.svg)](https://reuse.software/)
+
+> [!WARNING]
+> This repository is a work in progress.
 
 ## How to use this repository template
 
